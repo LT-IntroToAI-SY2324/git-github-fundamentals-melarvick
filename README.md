@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Morgan Larvick
 
 ## Berg Addendum
 
